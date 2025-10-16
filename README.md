@@ -1,0 +1,2 @@
+# pirmais
+linoleja kalkulators
